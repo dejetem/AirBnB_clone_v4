@@ -203,11 +203,10 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 
 * Simon Jonathan, [@dejetem](https://github.com/dejetem)
 
-* MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com]
-* Kimberly Wong, [kjowong](https://github.com/kjowong) 
-* Carrie Ybay, [hicarrie](https://github.com/hicarrie) 
-* Jared Heck, [jarehec](https://github.com/jarehec)
+* Alexa Orrico, [@alexaorrico](https://github.com/alexaorrico)
+* Jennifer Huang, [@jhuang10123](https://github.com/jhuang10123) 
+* Jhoan Zamora, [@jzamora5](https://github.com/jzamora5) 
+* David Ovalle, [@Nukemenonai](https://github.com/Nukemenonai)
 
 ## License
 #### Public Domain. No copywrite protection.
