@@ -204,10 +204,10 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 * Simon Jonathan, [@dejetem](https://github.com/dejetem)
 
 * MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [@djohncoleman](https://twitter.com/djohncoleman)
-* Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
-* Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
-* Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+* David John Coleman II, [davidjohncoleman.com]
+* Kimberly Wong, [kjowong](https://github.com/kjowong) 
+* Carrie Ybay, [hicarrie](https://github.com/hicarrie) 
+* Jared Heck, [jarehec](https://github.com/jarehec)
 
 ## License
 #### Public Domain. No copywrite protection.
